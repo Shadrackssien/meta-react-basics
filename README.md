@@ -1,2 +1,2 @@
 # meta-react-basics
-React Basics exercises
+React exercises to get the basic understanding
